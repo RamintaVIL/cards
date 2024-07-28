@@ -6,7 +6,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at:
+Site published at:ramintavil.github.io/cards/
 
 Design from: https://www.pinterest.com/pin/16255248648014480/
 
